@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\bin\Debug\baslangıç bitiş for-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\bin\Debug\baslangıç bitiş for-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\bin\Debug\baslangıç bitiş for-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç bitiş for-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç bitiş for-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç_bitiş_for_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç_bitiş_for_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç bitiş for-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç bitiş for-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç bitiş for-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\baslangıç bitiş for-836\baslangıç bitiş for-836\obj\Debug\baslangıç bitiş for-836.pdb
